@@ -37,7 +37,8 @@ https://github.com/vivekgangani512-lord/StudyNest
 
 <img width="1470" height="834" alt="Screenshot 2026-06-28 at 11 42 39 AM" src="https://github.com/user-attachments/assets/f9160b07-24d0-4b2d-9f2f-992525356f0d" />
 
-<img width="1470" height="834" alt="Screenshot 2026-06-28 at 11 42 51 AM" src="https://github.com/user-attachments/assets/8ffccef9-3d60-4d49-85e8-a25a67f4be58" />
+<img width="1470" height="834" alt="Screenshot 2026-06-28 at 11 42 51 AM" src="https://github.com/user-attachments/assets/eac16cd5-2563-45ab-b157-d1d73fe0ac70" />
+
 
 <img width="1470" height="834" alt="Screenshot 2026-06-28 at 11 43 06 AM" src="https://github.com/user-attachments/assets/f3616186-a4c4-4640-a107-584a0d4f63ce" />
 
