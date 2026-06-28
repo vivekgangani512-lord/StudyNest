@@ -299,7 +299,7 @@ body {
 
     padding: 35px;
 
-    position: sticky;
+    position: static;
 
     top: 25px;
 
