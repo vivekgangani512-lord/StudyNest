@@ -72,6 +72,30 @@ h3 {
   transition: .35s ease;
 }
 
+@media (max-width:768px) {
+
+  .navbar {
+    padding: 14px 18px;
+    border-radius: 18px;
+  }
+
+  .nav-links {
+    gap: 12px;
+  }
+
+  .trusted-badge {
+    display: none;
+  }
+
+  .logo img {
+    width: 55px;
+  }
+
+  .logo h1 {
+    font-size: 2rem;
+  }
+}
+
 .logo-section {
   display: flex;
   align-items: center;
@@ -411,6 +435,18 @@ h3 {
   grid-template-columns: repeat(4, 1fr);
   gap: 28px;
   margin-top: 60px;
+}
+
+@media(max-width:768px) {
+
+  .features-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .feature-card {
+    width: 100%;
+  }
 }
 
 .card {
