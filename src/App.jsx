@@ -211,7 +211,12 @@ function App() {
         >
           Built for Digital Heroes
         </button>
-      </footer>
+        <div className="developer-info">
+          <p>© 2026 StudyNest. All Rights Reserved.</p>
+          <p>Developed by Vivek Gangani</p>
+          <p>Email: vivekgangani512@gmail.com</p>
+        </div>
+      </footer >
 
     </div >
   );
