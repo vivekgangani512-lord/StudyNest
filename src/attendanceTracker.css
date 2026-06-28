@@ -49,7 +49,7 @@ body {
 
 .back-btn {
 
-    position: static;
+    position: absolute;
 
     left: 0;
 
